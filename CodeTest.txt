@@ -1,0 +1,6 @@
+
+
+class calculator:
+
+def add(a,v):
+  print(a+v)
